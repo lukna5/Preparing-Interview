@@ -40,14 +40,14 @@
             "id": "dbff721f59c25238",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
+                "file": "SystemDesign/Сети.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore"
+              "icon": "lucide-file",
+              "title": "Сети"
             }
           }
         ],
@@ -123,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SystemDesign/Сети.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Сети"
             }
           },
           {
@@ -141,11 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SystemDesign/Сети.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Сети"
             }
           },
           {
@@ -166,9 +168,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "SystemDesign/Сети.md"
+              },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Сети"
             }
           },
           {
@@ -201,10 +205,11 @@
   },
   "active": "dbff721f59c25238",
   "lastOpenFiles": [
+    "SystemDesign/1.md",
+    "SystemDesign/Сети.md",
     "Без названия.md",
     "Новый текстовый документ.txt",
     "Без названия 1.md",
-    "SystemDesign/1.md",
     "README.md",
     "SystemDesign"
   ]
