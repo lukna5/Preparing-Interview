@@ -11,15 +11,14 @@
             "id": "acaed4e7608931c4",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/app.json",
-                "bFile": ".obsidian/app.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "SystemDesign/1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: app.json"
+              "icon": "lucide-file",
+              "title": "1"
             }
           },
           {
@@ -50,8 +49,7 @@
               "title": "Сети"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
     "id": "bffad8c0a55ea0ef",
@@ -123,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SystemDesign/Сети.md",
+                "file": "SystemDesign/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Сети"
+              "title": "Обратные ссылки для 1"
             }
           },
           {
@@ -142,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SystemDesign/Сети.md",
+                "file": "SystemDesign/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Сети"
+              "title": "Исходящие ссылки из 1"
             }
           },
           {
@@ -169,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SystemDesign/Сети.md"
+                "file": "SystemDesign/1.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Сети"
+              "title": "Структура 1"
             }
           },
           {
@@ -203,11 +201,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dbff721f59c25238",
+  "active": "acaed4e7608931c4",
   "lastOpenFiles": [
-    "SystemDesign/1.md",
     "SystemDesign/Сети.md",
+    "SystemDesign/1.md",
+    "2025-01-23.md",
     "Без названия.md",
+    "Без названия.canvas",
+    "Databases/1.md",
+    "Databases",
     "Новый текстовый документ.txt",
     "Без названия 1.md",
     "README.md",
