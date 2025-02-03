@@ -215,10 +215,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f54a6aa8acb3b967",
+  "active": "c738e0a08686b679",
   "lastOpenFiles": [
-    "Write Through Cache.png",
-    "Read Through Cache.png",
+    "SystemDesign/resources/Write Through Cache.png",
+    "SystemDesign/resources/Read Through Cache.png",
     "SystemDesign/resources/Cache aside.png",
     "SystemDesign/resources/Кэш пример.png",
     "SystemDesign/Сети.md",
