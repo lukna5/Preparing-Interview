@@ -37,12 +37,14 @@
             "id": "55518df561d50602",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Закон Мура.png"
+                "file": "MPP/Формализация.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Закон Мура"
+              "icon": "lucide-file",
+              "title": "Формализация"
             }
           },
           {
@@ -229,8 +231,10 @@
   },
   "active": "c738e0a08686b679",
   "lastOpenFiles": [
+    "MPP/resources/SMT.png",
+    "MPP/resources/TSO Example.png",
+    "MPP/resources/Закон Мура.png",
     "MPP/Введение и история.md",
-    "Закон Мура.png",
     "MPP/Формализация.md",
     "SystemDesign/1.md",
     "SystemDesign/resources/Балансировщик_пример.png",
@@ -247,7 +251,6 @@
     "Без названия 1.md",
     "Без названия 1.canvas",
     "SystemDesign/resources",
-    "MPP/resources/Произошло до на глобальном времени.png",
     "MPP/resources",
     "Без названия.canvas",
     "MPP",
