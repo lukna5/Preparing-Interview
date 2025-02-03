@@ -11,6 +11,18 @@
             "id": "acaed4e7608931c4",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "MPP/resources/SMP.png"
+              },
+              "icon": "lucide-image",
+              "title": "SMP"
+            }
+          },
+          {
+            "id": "f54a6aa8acb3b967",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "SystemDesign/1.md",
@@ -49,7 +61,8 @@
               "title": "Сети"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -201,17 +215,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acaed4e7608931c4",
+  "active": "f54a6aa8acb3b967",
   "lastOpenFiles": [
+    "Write Through Cache.png",
+    "Read Through Cache.png",
+    "SystemDesign/resources/Cache aside.png",
+    "SystemDesign/resources/Кэш пример.png",
     "SystemDesign/Сети.md",
     "SystemDesign/1.md",
+    "MPP/resources/Закон_Амдала_Формула.png",
     "2025-01-23.md",
-    "Без названия.md",
+    "2025-02-02.md",
+    "MPP/resources/Закон_Амдала_График.png",
+    "Без названия 1.md",
+    "Без названия 1.canvas",
+    "SystemDesign/resources/Реплицирование базы данных.png",
+    "SystemDesign/resources/Балансировщик_пример.png",
+    "SystemDesign/resources",
+    "MPP/Формализация.md",
+    "MPP/resources/Произошло до на глобальном времени.png",
+    "MPP/Введение и история.md",
+    "MPP/resources/TSO Example.png",
+    "MPP/resources/Модель с общей памятью.png",
+    "MPP/resources",
     "Без названия.canvas",
+    "MPP",
+    "Без названия.md",
     "Databases/1.md",
     "Databases",
     "Новый текстовый документ.txt",
-    "Без названия 1.md",
     "README.md",
     "SystemDesign"
   ]
