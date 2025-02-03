@@ -39,7 +39,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "MPP/Закон Мура.png"
+                "file": "Закон Мура.png"
               },
               "icon": "lucide-image",
               "title": "Закон Мура"
@@ -227,8 +227,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55518df561d50602",
+  "active": "c738e0a08686b679",
   "lastOpenFiles": [
+    "MPP/Введение и история.md",
+    "Закон Мура.png",
     "MPP/Формализация.md",
     "SystemDesign/1.md",
     "SystemDesign/resources/Балансировщик_пример.png",
@@ -246,8 +248,6 @@
     "Без названия 1.canvas",
     "SystemDesign/resources",
     "MPP/resources/Произошло до на глобальном времени.png",
-    "MPP/Введение и история.md",
-    "MPP/resources/TSO Example.png",
     "MPP/resources",
     "Без названия.canvas",
     "MPP",
