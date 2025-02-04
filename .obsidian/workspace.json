@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MPP/Введение и история.md",
+                "file": "SystemDesign/1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Введение и история"
+              "title": "1"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MPP/Введение и история.md",
+                "file": "SystemDesign/1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Введение и история"
+              "title": "Структура 1"
             }
           },
           {
@@ -195,11 +195,14 @@
   },
   "active": "df02ffd40356122b",
   "lastOpenFiles": [
-    "MPP/resources/SMP.png",
+    "SystemDesign/Сети.md",
+    "SystemDesign/1.md",
+    "SystemDesign/resources/Балансировщик_пример.png",
+    "Databases/1.md",
     "MPP/Введение и история.md",
     "MPP/Формализация.md",
+    "MPP/resources/SMP.png",
     "MPP/resources/Произошло до на глобальном времени.png",
-    "Databases/1.md",
     "MPP/resources/TSO Example.png",
     "MPP/resources/Закон Мура.png",
     "MPP/assets/Введение и история/file-20250205001349276.png",
@@ -210,15 +213,11 @@
     "MPP/assets/Введение и история",
     "MPP/assets/Формализация",
     "MPP/assets",
-    "SystemDesign/Сети.md",
     "README.md",
     "consistency-report.md",
-    "SystemDesign/resources/Балансировщик_пример.png",
     "SystemDesign/resources/Реплицирование базы данных.png",
     "SystemDesign/resources/Кэш пример.png",
-    "SystemDesign/resources/Write Through Cache.png",
     "SystemDesign/resources",
-    "SystemDesign/1.md",
     "MPP/resources",
     "Без названия.canvas",
     "Без названия 1.canvas",
