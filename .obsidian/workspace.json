@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "MPP/resources/SMP.png"
+                "file": "SMP.png"
               },
               "icon": "lucide-image",
               "title": "SMP"
@@ -37,14 +37,14 @@
             "id": "55518df561d50602",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "MPP/Формализация.md",
-                "mode": "source",
-                "source": false
+                "aFile": "SystemDesign/1.md",
+                "bFile": "SystemDesign/1.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Формализация"
+              "icon": "diff",
+              "title": "Diff: 1"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Check Vault Consistency",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,7 +183,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Теги"
@@ -195,10 +197,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SystemDesign/1.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 1"
+              "title": "Структура"
             }
           },
           {
@@ -229,36 +233,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c738e0a08686b679",
+  "active": "55518df561d50602",
   "lastOpenFiles": [
-    "MPP/resources/SMT.png",
-    "MPP/resources/TSO Example.png",
-    "MPP/resources/Закон Мура.png",
-    "MPP/Введение и история.md",
-    "MPP/Формализация.md",
-    "SystemDesign/1.md",
-    "SystemDesign/resources/Балансировщик_пример.png",
     "SystemDesign/resources/Кэш пример.png",
-    "SystemDesign/resources/Реплицирование базы данных.png",
-    "SystemDesign/resources/Read Through Cache.png",
-    "SystemDesign/resources/Write Through Cache.png",
+    "Балансировщик_пример.png",
+    "SystemDesign/1.md",
+    "SystemDesign/resources",
     "SystemDesign/Сети.md",
-    "SystemDesign/resources/Cache aside.png",
-    "MPP/resources/Закон_Амдала_Формула.png",
+    "SMP.png",
+    "Cache aside.png",
+    "Без названия.canvas",
+    "Read Through Cache.png",
+    "Write Through Cache.png",
+    "Pasted image 20250204233147.png",
+    "Без названия 1.canvas",
+    "2025-02-04.md",
+    "SystemDesign/resources/Реплицирование базы данных.png",
+    "README.md",
+    "MPP/Формализация.md",
+    "SMT.png",
+    "TSO Example.png",
+    "MPP/Введение и история.md",
     "2025-01-23.md",
     "2025-02-02.md",
-    "MPP/resources/Закон_Амдала_График.png",
     "Без названия 1.md",
-    "Без названия 1.canvas",
     "SystemDesign/resources",
     "MPP/resources",
-    "Без названия.canvas",
     "MPP",
     "Без названия.md",
     "Databases/1.md",
     "Databases",
     "Новый текстовый документ.txt",
-    "README.md",
     "SystemDesign"
   ]
 }
