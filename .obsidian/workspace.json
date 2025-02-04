@@ -195,8 +195,9 @@
   },
   "active": "df02ffd40356122b",
   "lastOpenFiles": [
-    "SystemDesign/Сети.md",
+    "SystemDesign/resources/Кэш пример.png",
     "SystemDesign/1.md",
+    "SystemDesign/Сети.md",
     "SystemDesign/resources/Балансировщик_пример.png",
     "Databases/1.md",
     "MPP/Введение и история.md",
@@ -216,7 +217,6 @@
     "README.md",
     "consistency-report.md",
     "SystemDesign/resources/Реплицирование базы данных.png",
-    "SystemDesign/resources/Кэш пример.png",
     "SystemDesign/resources",
     "MPP/resources",
     "Без названия.canvas",
