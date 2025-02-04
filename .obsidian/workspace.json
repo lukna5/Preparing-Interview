@@ -11,12 +11,14 @@
             "id": "df02ffd40356122b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "MPP/assets/Формализация/file-20250205000512063.png"
+                "file": "Databases/1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "file-20250205000512063"
+              "icon": "lucide-file",
+              "title": "1"
             }
           },
           {
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MPP/assets/Формализация/file-20250205000512063.png",
+                "file": "Databases/1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура file-20250205000512063"
+              "title": "Структура 1"
             }
           },
           {
@@ -193,11 +195,16 @@
   },
   "active": "df02ffd40356122b",
   "lastOpenFiles": [
+    "Databases/assets/1/file-20250205001407539.png",
+    "Databases/assets/1",
+    "Databases/assets",
+    "MPP/Введение и история.md",
+    "MPP/assets/Введение и история/file-20250205001349276.png",
+    "MPP/assets/Введение и история",
     "MPP/Формализация.md",
     "MPP/assets/Формализация/file-20250205000512063.png",
     "MPP/assets/Формализация",
     "MPP/assets",
-    "MPP/Введение и история.md",
     "SystemDesign/Сети.md",
     "README.md",
     "consistency-report.md",
@@ -211,7 +218,6 @@
     "SystemDesign/1.md",
     "MPP/resources/Произошло до на глобальном времени.png",
     "MPP/resources/Модель с общей памятью.png",
-    "MPP/resources/Закон_Амдала_Формула.png",
     "MPP/resources",
     "Без названия.canvas",
     "Без названия 1.canvas",
@@ -223,7 +229,6 @@
     "Без названия.md",
     "Databases/1.md",
     "Databases",
-    "Новый текстовый документ.txt",
-    "SystemDesign"
+    "Новый текстовый документ.txt"
   ]
 }
