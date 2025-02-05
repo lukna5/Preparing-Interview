@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SystemDesign/1.md",
+                "file": "SystemDesign/Кэш.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "Кэш"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Check Vault Consistency",
+                "query": "tag:#Минусы",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SystemDesign/1.md",
+                "file": "SystemDesign/Кэш.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 1"
+              "title": "Структура Кэш"
             }
           },
           {
@@ -195,24 +195,25 @@
   },
   "active": "df02ffd40356122b",
   "lastOpenFiles": [
+    "SystemDesign/1.md",
+    "SystemDesign/Сети.md",
+    "SystemDesign/Кэш.md",
+    "2025-02-06.md",
+    "SystemDesign/assets/1/file-20250205221903358.png",
+    "SystemDesign/assets/1/file-20250205221520377.png",
+    "SystemDesign/resources/Cache aside.png",
+    "SystemDesign/assets/1/file-20250205221328003.png",
+    "SystemDesign/assets/1/file-20250205221301904.png",
+    "SystemDesign/assets/1/file-20250205221249792.png",
+    "SystemDesign/assets/1/file-20250205221056386.png",
     "SystemDesign/assets/1/file-20250205005624407.png",
     "SystemDesign/assets/1/file-20250205005529518.png",
     "SystemDesign/assets/1",
     "SystemDesign/assets",
     "SystemDesign/resources/Кэш пример.png",
-    "SystemDesign/1.md",
-    "SystemDesign/Сети.md",
-    "SystemDesign/resources/Балансировщик_пример.png",
     "Databases/1.md",
     "MPP/Введение и история.md",
     "MPP/Формализация.md",
-    "MPP/resources/SMP.png",
-    "MPP/resources/Произошло до на глобальном времени.png",
-    "MPP/resources/TSO Example.png",
-    "MPP/resources/Закон Мура.png",
-    "MPP/assets/Введение и история/file-20250205001349276.png",
-    "MPP/assets/Формализация/file-20250205000512063.png",
-    "Databases/assets/1/file-20250205001407539.png",
     "Databases/assets/1",
     "Databases/assets",
     "MPP/assets/Введение и история",
