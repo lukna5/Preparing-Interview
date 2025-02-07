@@ -17,7 +17,7 @@ No problems found
 - (line 55): `Произошло до на глобальном времени.png`
 
 
-[[SystemDesign/1]]:
+[[SystemDesign/Базовые моменты по архитектуре]]:
 - (line 21): `Реплицирование базы данных.png`
 - (line 41): `Кэш пример.png`
 - (line 46): `Cache aside.png`
@@ -48,7 +48,7 @@ No problems found
 - (line 55): `Произошло до на глобальном времени.png`
 
 
-[[SystemDesign/1]]:
+[[SystemDesign/Базовые моменты по архитектуре]]:
 - (line 21): `Реплицирование базы данных.png`
 - (line 41): `Кэш пример.png`
 - (line 46): `Cache aside.png`

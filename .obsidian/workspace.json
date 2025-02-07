@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SystemDesign/1.md",
+                "file": "SystemDesign/Базовые моменты по архитектуре.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "Базовые моменты по архитектуре"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SystemDesign/1.md",
+                "file": "SystemDesign/Базовые моменты по архитектуре.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 1"
+              "title": "Структура Базовые моменты по архитектуре"
             }
           },
           {
@@ -195,21 +195,22 @@
   },
   "active": "df02ffd40356122b",
   "lastOpenFiles": [
+    "SystemDesign/assets/Базовые моменты по архитектуре",
+    "SystemDesign/assets/Базовые моменты по архитектуре/file-20250208012133325.png",
+    "SystemDesign/assets/Базовые моменты по архитектуре/file-20250208012118912.png",
+    "SystemDesign/assets/Базовые моменты по архитектуре/file-20250208011507193.png",
+    "SystemDesign/assets/Базовые моменты по архитектуре/file-20250208003932829.png",
+    "SystemDesign/assets/Базовые моменты по архитектуре/file-20250208003731934.png",
+    "SystemDesign/assets/Базовые моменты по архитектуре/file-20250208002825999.png",
     "SystemDesign/Кэш.md",
     "SystemDesign/Сети.md",
-    "SystemDesign/1.md",
-    "SystemDesign/assets/1/file-20250207020705520.png",
-    "SystemDesign/assets/1/file-20250207020347652.png",
+    "SystemDesign/Базовые моменты по архитектуре.md",
+    "SystemDesign/assets/Базовые моменты по архитектуре/file-20250207020705520.png",
+    "SystemDesign/assets/Базовые моменты по архитектуре/file-20250207020347652.png",
     "SystemDesign/assets/Кэш/file-20250207014713762.png",
     "SystemDesign/assets/Кэш",
-    "SystemDesign/assets/1/file-20250205005529518.png",
-    "SystemDesign/resources/Балансировщик_пример.png",
-    "SystemDesign/resources/Кэш пример.png",
+    "SystemDesign/assets/Базовые моменты по архитектуре/file-20250205005529518.png",
     "2025-02-06.md",
-    "SystemDesign/assets/1/file-20250205221903358.png",
-    "SystemDesign/assets/1/file-20250205221520377.png",
-    "SystemDesign/resources/Cache aside.png",
-    "SystemDesign/assets/1/file-20250205221328003.png",
     "SystemDesign/assets/1",
     "SystemDesign/assets",
     "Databases/1.md",
