@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/База.md",
+                "file": "Databases/Хранение информации (Буферный кэш, WAL).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "База"
+              "title": "Хранение информации (Буферный кэш, WAL)"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/Хранение информации (Буферный кэш, WAL).md",
+                "file": "Databases/Изоляция.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Хранение информации (Буферный кэш, WAL)"
+              "title": "Изоляция"
             }
           },
           {
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Минусы",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,17 +211,19 @@
   },
   "active": "4f0d5f313892b018",
   "lastOpenFiles": [
+    "Databases/База.md",
+    "Databases/MVCC.md",
+    "Databases/Изоляция.md",
+    "Databases/Хранение информации (Буферный кэш, WAL).md",
+    "Databases/Распределенный PostgreSQL.md",
+    "MPP/Введение и история.md",
+    "MPP/Формализация.md",
     "Databases/assets/Хранение информации (Буферный кэш, WAL)/file-20250324212949722.png",
     "Databases/assets/Хранение информации (Буферный кэш, WAL)/q4th83seql63dkrgfmg7esu3zh8.png",
-    "Databases/Хранение информации (Буферный кэш, WAL).md",
     "SystemDesign/assets/Кэш/file-20250207014713762.png",
     "Databases/assets/Хранение информации (Буферный кэш, WAL)",
     "Databases/assets",
-    "Databases/База.md",
     "SystemDesign/resources/Балансировщик_пример.png",
-    "Databases/Изоляция.md",
-    "MPP/Введение и история.md",
-    "MPP/Формализация.md",
     "MPP/resources/SMT.png",
     "MPP/resources/SMP.png",
     "SystemDesign/Сети.md",
@@ -236,7 +238,6 @@
     "SystemDesign/(Глава 1) Базовые моменты по архитектуре.md",
     "SystemDesign/assets/(Глава 1) Базовые моменты по архитектуре",
     "SystemDesign/assets/(Глава 2) Оценки/file-20250208145744265.png",
-    "SystemDesign/assets/(Глава 2) Оценки/file-20250208145743304.png",
     "SystemDesign/assets/Оценки (Глава 2)",
     "SystemDesign/assets/Базовые моменты по архитектуре (Глава 1)",
     "SystemDesign/assets/Базовые моменты по архитектуре (1)",
