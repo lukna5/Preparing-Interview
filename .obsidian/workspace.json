@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/Изоляция.md",
+                "file": "Java/SOLID.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Изоляция"
+              "title": "SOLID"
             }
           },
           {
@@ -211,11 +211,16 @@
   },
   "active": "4f0d5f313892b018",
   "lastOpenFiles": [
+    "Databases/Индексы.md",
+    "Java/SOLID.md",
+    "Java",
+    "Databases/Распределенный PostgreSQL.md",
+    "Databases/assets/Распределенный PostgreSQL/file-20250327104124602.png",
+    "Databases/assets/Распределенный PostgreSQL",
+    "Databases/Изоляция.md",
     "Databases/База.md",
     "Databases/MVCC.md",
-    "Databases/Изоляция.md",
     "Databases/Хранение информации (Буферный кэш, WAL).md",
-    "Databases/Распределенный PostgreSQL.md",
     "MPP/Введение и история.md",
     "MPP/Формализация.md",
     "Databases/assets/Хранение информации (Буферный кэш, WAL)/file-20250324212949722.png",
@@ -237,13 +242,10 @@
     "SystemDesign/assets/(Глава 2) Оценки",
     "SystemDesign/(Глава 1) Базовые моменты по архитектуре.md",
     "SystemDesign/assets/(Глава 1) Базовые моменты по архитектуре",
-    "SystemDesign/assets/(Глава 2) Оценки/file-20250208145744265.png",
     "SystemDesign/assets/Оценки (Глава 2)",
     "SystemDesign/assets/Базовые моменты по архитектуре (Глава 1)",
     "SystemDesign/assets/Базовые моменты по архитектуре (1)",
     "SystemDesign/assets/Базовые моменты по архитектуре",
-    "SystemDesign/assets/Кэш",
-    "SystemDesign/assets/1",
     "README.md",
     "consistency-report.md",
     "Без названия.canvas",
